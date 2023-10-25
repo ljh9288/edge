@@ -1,0 +1,10 @@
+Steps for installing SleekLoad:
+
+1. Open the 'config' file in the 'sleekload' folder with a text editor (e.g. notepad)
+2. Edit and save the file to customize your loading screen
+3. After finish editing it, upload the 'sleekload' folder to your web host
+4. Set the sv_loadingurl of your server to your SleekLoad web host url
+5. Enjoy!
+
+Thank you for purchasing SleekLoad!
+Have fun with your new loading screen!
