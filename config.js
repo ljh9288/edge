@@ -22,10 +22,10 @@ config.logo_use_image = true
 
 // Image filename for the server logo
 // (Place the image file in the images folder)
-config.logo_image = "logo.png"
+config.logo_image = "lgo.png"
 
 // Text to be shown on logo
-config.logo_text = "SleekLoad"
+config.logo_text = "Edge"
 
 // Use the server's name for the logo
 config.logo_servername = false
@@ -41,7 +41,7 @@ config.logo_show_info = true
 // Use a video for the background?
 // Otherwise it will use images
 // "true" or "false"
-config.background_use_video = true
+config.background_use_video = false
 
 // Default available videos:
 // "blue_rays.webm"
@@ -84,12 +84,12 @@ config.background_images_random_order = true
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-config.background_images_duration = 5000
+config.background_images_duration = 10000
 
 // (Image-background only)
 // Image background fade duration
 // in milliseconds
-config.background_images_fade_duration = 2000
+config.background_images_fade_duration = 20000
 
 // Enable background overlay?
 // "true" or "false"
@@ -114,21 +114,13 @@ config.music_show = true
 // (Place the audio files in the music folder)
 config.music_playlist = [
 	{
-		name: "Jason Shaw - Sideways Samba - Audionautix.com",
-		file: "sideways_samba.ogg",
+		name: "Oceania, Tis For Thee",
+		youtube: "https://www.youtube.com/watch?v=fzoQJCRJmcs",
 	},
 	{
-		name: "Devil Survivor 2 - Exploration",
-		youtube: "https://www.youtube.com/watch?v=Zyu-BSdma3g",
-	},
-	{
-		name: "VA-11 Hall-A - Every Day Is Night",
-		youtube: "https://youtu.be/H-AfGh8gmiQ",
-	},
-	{
-		name: "Sonic Mania - Comfort Zone",
-		youtube: "f4CBQ9nnQSY",
-	},
+		name: "Anthem of City Seventeen",
+		youtube: "https://www.youtube.com/watch?v=xUxCmIMmm30",
+	}
 ]
 
 // Random music order?
@@ -148,7 +140,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to SleekLoad!",
+	"loading",
 	"Customize your loading screen by editing the config file",
 	"Enjoy!",
 ]
