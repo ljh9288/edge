@@ -141,8 +141,6 @@ config.messages_enable = true
 // Enter your custom messages below
 config.messages_list = [
 	"loading",
-	"Customize your loading screen by editing the config file",
-	"Enjoy!",
 ]
 
 // Random message order?
