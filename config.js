@@ -73,7 +73,8 @@ config.background_images = [
 	"back4.jpg",
 	"back5.jpg",
 	"back6.jpg",
-	"back7.jpg"
+	"back7.jpg",
+	"api.png",
 ]
 
 // (Image-background only)
@@ -89,7 +90,7 @@ config.background_images_duration = 10000
 // (Image-background only)
 // Image background fade duration
 // in milliseconds
-config.background_images_fade_duration = 20000
+config.background_images_fade_duration = 7000
 
 // Enable background overlay?
 // "true" or "false"
