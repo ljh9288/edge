@@ -75,6 +75,10 @@ config.background_images = [
 	"back6.jpg",
 	"back7.jpg",
 	"api.png",
+	"bandit.png",
+	"cpteam.png",
+	"forest.png",
+	"mafia.png",
 ]
 
 // (Image-background only)
@@ -85,12 +89,12 @@ config.background_images_random_order = true
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-config.background_images_duration = 10000
+config.background_images_duration = 9000
 
 // (Image-background only)
 // Image background fade duration
 // in milliseconds
-config.background_images_fade_duration = 7000
+config.background_images_fade_duration = 6500
 
 // Enable background overlay?
 // "true" or "false"
