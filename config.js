@@ -98,11 +98,11 @@ config.background_images_fade_duration = 6500
 
 // Enable background overlay?
 // "true" or "false"
-config.background_overlay = true
+config.background_overlay = false
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
-config.background_darkening = 30
+config.background_darkening = 0
 
 // Play music during the loading screen?
 // "true" or "false"
@@ -110,7 +110,7 @@ config.music_enable = true
 
 // Display current music name?
 // "true" or "false"
-config.music_show = true
+config.music_show = false
 
 // Music playlist
 // Add as many youtube ids/urls or audio files you want
@@ -141,7 +141,7 @@ config.music_gmod_volume = true
 
 // Enable custom messages?
 // "true" or "false"
-config.messages_enable = true
+config.messages_enable = false
 
 // Enter your custom messages below
 config.messages_list = [
