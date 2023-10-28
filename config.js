@@ -130,6 +130,10 @@ config.music_playlist = [
 		name: "Anthem of The Combine",
 		youtube: "https://www.youtube.com/watch?v=HQfrN1EARxY",
 	},
+	{ 
+		name: "Il mare eterno nella mia anima",
+		youtube: "https://www.youtube.com/watch?v=acyN9CWezjE",
+	},
 ]
 
 // Random music order?
