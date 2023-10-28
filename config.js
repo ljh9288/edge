@@ -125,7 +125,11 @@ config.music_playlist = [
 	{
 		name: "Anthem of City Seventeen",
 		youtube: "https://www.youtube.com/watch?v=xUxCmIMmm30",
-	}
+	},
+	{	
+		name: "Anthem of The Combine",
+		youtube: "https://www.youtube.com/watch?v=HQfrN1EARxY",
+	},
 ]
 
 // Random music order?
