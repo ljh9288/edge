@@ -79,6 +79,7 @@ config.background_images = [
 	"cpteam.png",
 	"forest.png",
 	"mafia.png",
+	"troops.png",
 ]
 
 // (Image-background only)
