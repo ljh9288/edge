@@ -123,10 +123,6 @@ config.music_playlist = [
 		name: "Oceania, Tis For Thee",
 		youtube: "https://www.youtube.com/watch?v=fzoQJCRJmcs",
 	},
-	{
-		name: "Anthem of City Seventeen",
-		youtube: "https://www.youtube.com/watch?v=xUxCmIMmm30",
-	},
 	{	
 		name: "Anthem of The Combine",
 		youtube: "https://www.youtube.com/watch?v=HQfrN1EARxY",
