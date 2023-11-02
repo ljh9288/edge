@@ -80,6 +80,7 @@ config.background_images = [
 	"forest.png",
 	"mafia.png",
 	"troops.png",
+	"cp.png",
 ]
 
 // (Image-background only)
