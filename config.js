@@ -25,7 +25,7 @@ config.logo_use_image = true
 config.logo_image = "lgo.png"
 
 // Text to be shown on logo
-config.logo_text = "Edge"
+config.logo_text = "OVC"
 
 // Use the server's name for the logo
 config.logo_servername = false
@@ -67,27 +67,17 @@ config.background_map_based = false
 // Multiple images will automatically shuffle between them
 // (Place the image files in the backgrounds/images folder)
 config.background_images = [
-	"back1.jpg",
-	"back2.jpg",
-	"back3.jpg",
-	"back4.jpg",
-	"back5.jpg",
-	"back6.jpg",
-	"back7.jpg",
-	"api.png",
-	"bandit.png",
-	"cpteam.png",
-	"forest.png",
-	"mafia.png",
-	"troops.png",
-	"cp.png",
-	"ota.png",
+	"1.png",
+	"2.png",
+	"3.png",
+	"4.png",
+	"5.png",
 ]
 
 // (Image-background only)
 // Random background images order?
 // "true" or "false"
-config.background_images_random_order = true
+config.background_images_random_order = false
 
 // (Image-background only)
 // Delay between background images changes
@@ -122,13 +112,10 @@ config.music_show = false
 // (Place the audio files in the music folder)
 config.music_playlist = [
 	{
-		name: "Oceania, Tis For Thee",
-		youtube: "https://www.youtube.com/watch?v=fzoQJCRJmcs",
+		name: "Main",
+		file: "S.T.A.L.K.E.R Anomaly main menu theme.ogg",
 	},
-	{	
-		name: "Anthem of The Combine",
-		youtube: "https://www.youtube.com/watch?v=HQfrN1EARxY",
-	},
+	
 ]
 
 // Random music order?
